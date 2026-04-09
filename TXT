@@ -1,0 +1,2 @@
+_vercel
+vc-domain-verify=jaono.vercel.us,48be56503281e8c26775
